@@ -1,1 +1,1 @@
-hahaha
+test redis repolist
